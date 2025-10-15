@@ -1,2 +1,2 @@
-# Simple-Script-I-made-using-python-they-are-my-first-scripts
+# Simple-Py-Project
 I made some python scripts and wanted to see if you guys can rate it.
